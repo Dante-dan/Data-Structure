@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/4/19 星期日 10:25:50。
+     1>项目“D:\Users\Desktop\Sqlist(约瑟夫环)\Sqlist(约瑟夫环)\Sqlist(约瑟夫环).vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "约瑟夫环.c"
+         约瑟夫环.c
+     1>d:\users\desktop\sqlist(约瑟夫环)\sqlist(约瑟夫环)\sqlist.h(46): error C2102: “&”要求左值
+     1>d:\users\desktop\sqlist(约瑟夫环)\sqlist(约瑟夫环)\约瑟夫环.c(30): warning C4047: “函数”:“int”与“Node *”的间接级别不同
+     1>d:\users\desktop\sqlist(约瑟夫环)\sqlist(约瑟夫环)\约瑟夫环.c(30): warning C4024: “ListDelete”: 形参和实参 2 的类型不同
+     1>d:\users\desktop\sqlist(约瑟夫环)\sqlist(约瑟夫环)\约瑟夫环.c(44): warning C4047: “函数”:“int”与“Node *”的间接级别不同
+     1>d:\users\desktop\sqlist(约瑟夫环)\sqlist(约瑟夫环)\约瑟夫环.c(44): warning C4024: “ListDelete”: 形参和实参 2 的类型不同
+     1>已完成生成项目“D:\Users\Desktop\Sqlist(约瑟夫环)\Sqlist(约瑟夫环)\Sqlist(约瑟夫环).vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.17
